@@ -1,4 +1,4 @@
-__author__ = 'yuy001'
+__author__ = 'yuy'
 a = ['alpha', 'beta', 'gamma', 'delta']
 
 for item in a:
